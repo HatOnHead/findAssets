@@ -1,4 +1,4 @@
-需要提前安装好subfinder，amass,httpx并配置环境变量
+需要提前安装好subfinder，amass,httpx并配置环境变量\r\n
 amass和httpx通过go环境安装
 wget https://go.dev/dl/go1.22.0.linux-amd64.tar.gz
 tar -C /usr/local -xzf go1.22.0.linux-amd64.tar.gz
