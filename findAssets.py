@@ -3,13 +3,6 @@ import subprocess
 import os
 import sys
 
-CONFIG = {
-    "fofa_api_key": "e28ffc3174459a607a73ae979d5478fa",
-    "hunter_api_key": "263ee1a367c60dd9fc162fdbee588d2c7ab8353a145b13997069563f6599d4e9",
-    "zoomeye_api_key": "D734C32e-Cc20-86739-44BA-5867E62a024",
-    "shodan_api_key": "5uILRv4uLkQHsppEHhjpBxBUUxlpjc8u"
-}
-
 def run_cmd(cmd):
     print(f"Running command: {cmd}")
     try:
@@ -100,3 +93,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
