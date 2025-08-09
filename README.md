@@ -1,3 +1,4 @@
+整合了subfinder收集结果交给httpx检测存活后输出到外部文件
 需要提前安装好subfinder，amass,httpx并配置环境变量  
 amass和httpx通过go环境安装  
 wget https://go.dev/dl/go1.22.0.linux-amd64.tar.gz  
